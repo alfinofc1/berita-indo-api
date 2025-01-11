@@ -15,7 +15,7 @@ export default function Home() {
           Berita Indo API
         </p>
         <Link
-          href="https://github.com/satyawikananda/berita-indo-api"
+          href="https://wa.me//6289690719275"
           target="_blank"
         >
           <button className="bg-slate-800 p-3 rounded-lg text-white hover:bg-slate-900 transition-colors flex flex-row items-center gap-2">
@@ -39,11 +39,10 @@ export default function Home() {
       </nav>
       <section className="flex w-full flex-col justify-center items-center pt-10">
         <h1 className="w-3/4 text-6xl font-bold bg-gradient-to-r from-sky-500 via-sky-600 to-sky-500 bg-clip-text text-transparent text-center">
-          Discover <span className="text-slate-800">News API</span> In Indonesia
+          <span className="text-slate-800"></span>
         </h1>
         <p className="text-slate-600 text-xl mt-6 max-w-2xl text-center">
-          Berita Indo API is an Public API to get the latest news from the
-          popular news portal in Indonesia
+          Api Berita Indo
         </p>
         <div className="flex flex-wrap flex-row justify-center items-center mx-auto space-x-3 mt-8 max-w-3xl">
           {listNews.map((list, idx) => (
@@ -61,7 +60,7 @@ export default function Home() {
           ))}
         </div>
         <div className="p-6">
-          <Tweet id="1685260678226173952" />
+          <Tweet id="168526067822617392" />
         </div>
       </section>
       <footer className="footer footer-center p-4">
@@ -69,15 +68,15 @@ export default function Home() {
           <p>
             © 2023
             <Link
-              href="https://twitter.com/satya_wikananda"
+              href="https://wa.me/6289690719275"
               target="_blank"
               className="hover:text-slate-600"
             >
               {" "}
-              Satya Wikananda -
+              ALFIN -
             </Link>{" "}
             <Link
-              href="https://trakteer.id/satya-wikananda"
+              href="https://wa.me/6289690719275"
               target="_blank"
               className="hover:text-slate-600"
             >
